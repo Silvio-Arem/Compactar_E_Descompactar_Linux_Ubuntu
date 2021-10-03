@@ -1,0 +1,10 @@
+gzip arquivo.txt : Cria gz
+gunzip arquivo.txt.gz : Descompacta gz
+zip arquivo.zip arquivo.txt : Cria zip
+unzip arquivo.zip : Descompacta zip
+rar a arquivo.rar arquivo.txt : Cria rar
+rar x arquivo.rar : Descompacta rar
+bzip2 arquivo.txt : Cria bz2
+bzip2 -d arquivo.txt.bz2 : Descompacta bz2
+tar -cf arquivo.tar arquivo.txt : Cria um ou mais arquivos tar
+tar -xf arquivo.tar : Descompacta um ou mais arquivos tar
